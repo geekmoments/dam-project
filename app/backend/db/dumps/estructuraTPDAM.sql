@@ -33,7 +33,12 @@ INSERT INTO `Electrovalvulas` (`electrovalvulaId`, `nombre`) VALUES
 (2, 'Campo 2'),
 (3, 'Campo 3'),
 (4, 'Campo 4'),
-(5, 'Campo 5');
+(5, 'Campo 5'),
+(6, 'Campo 6'),
+(7, 'Campo 7'),
+(8, 'Campo 8'),
+(9, 'Campo 9');
+
 
 -- -----------------------------------------------------
 -- Table `DAM`.`Dispositivos`
