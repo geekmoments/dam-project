@@ -1,8 +1,8 @@
 # Trabajo Práctico Final
 
-Desarrollo de aplicaciones multiplataforma
+## Desarrollo de aplicaciones multiplataforma
 
-4ta Cohorte 2021
+## 4ta Cohorte 2021
 
 Autor
 
